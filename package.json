@@ -1,0 +1,23 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "Flashcard generator module to create or access flashcards from mysql database",
+  "main": "generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rdhenderson/flashcard-generator.git"
+  },
+  "keywords": [
+    "flashcards",
+    "bootcamp"
+  ],
+  "author": "rdhenderson <reid.henderson@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rdhenderson/flashcard-generator/issues"
+  },
+  "homepage": "https://github.com/rdhenderson/flashcard-generator#readme"
+}
